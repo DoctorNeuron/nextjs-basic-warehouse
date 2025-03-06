@@ -1,0 +1,191 @@
+[
+  {
+    "id": "42e3e962-0f54-44af-bca5-d6d69072897a",
+    "category": "Crops",
+    "image": "/images/wheat.png",
+    "name": "Wheat",
+    "price": 3.6
+  },
+  {
+    "id": "04ef0caa-d782-4167-8292-de9253f7d1e4",
+    "category": "Animals",
+    "image": "/images/egg.png",
+    "name": "Egg",
+    "price": 18
+  },
+  {
+    "id": "455db94b-e5c9-4d29-8903-8696993aec67",
+    "category": "Crops",
+    "image": "/images/corn.png",
+    "name": "Corn",
+    "price": 7.2
+  },
+  {
+    "id": "01a46f05-39d7-4638-8561-1ce7020e1be0",
+    "category": "Processed",
+    "image": "/images/bread.png",
+    "name": "Bread",
+    "price": 21
+  },
+  {
+    "id": "23e4317c-a23e-4f1a-b066-d025265c73ce",
+    "category": "Processed",
+    "image": "/images/chicken_feed.png",
+    "name": "Chicken Feed",
+    "price": 7
+  },
+  {
+    "id": "b94abee1-9526-402f-ba43-9e82af097c66",
+    "category": "Crops",
+    "image": "/images/soybean.png",
+    "name": "Soybean",
+    "price": 10.8
+  },
+  {
+    "id": "b81598c2-c5e3-4556-a5aa-f383acc2c35c",
+    "category": "Processed",
+    "image": "/images/cow_feed.png",
+    "name": "Cow Feed",
+    "price": 14
+  },
+  {
+    "id": "af3f6685-acf8-4e5d-a74f-f50fb4814437",
+    "category": "Processed",
+    "image": "/images/cream.png",
+    "name": "Cream",
+    "price": 50
+  },
+  {
+    "id": "821e0eff-c2ef-45d1-8889-908d0b539777",
+    "category": "Animals",
+    "image": "/images/milk.png",
+    "name": "Milk",
+    "price": 32
+  },
+  {
+    "id": "c27fa165-c2c2-41f7-99f5-e5d05de1c12b",
+    "category": "Crops",
+    "image": "/images/sugarcane.png",
+    "name": "Sugarcane",
+    "price": 14.4
+  },
+  {
+    "id": "8f0c0fd5-c801-4cb4-90f6-c85f3efa24aa",
+    "category": "Processed",
+    "image": "/images/corn_bread.png",
+    "name": "Corn Bread",
+    "price": 72
+  },
+  {
+    "id": "75719565-2669-4dc9-9da5-7b4aa871a6d6",
+    "category": "Processed",
+    "image": "/images/brown_sugar.png",
+    "name": "Brown Sugar",
+    "price": 32
+  },
+  {
+    "id": "fa8aa3b4-797d-4313-954e-7e8fc99bfbee",
+    "category": "Processed",
+    "image": "/images/popcorn.png",
+    "name": "Popcorn",
+    "price": 32
+  },
+  {
+    "id": "ad81dd8b-89b0-4d24-a83b-cf043a002619",
+    "category": "Processed",
+    "image": "/images/pancake.png",
+    "name": "Pancake",
+    "price": 108
+  },
+  {
+    "id": "61ecbc20-6b19-406d-87ae-509b62d3585e",
+    "category": "Crops",
+    "image": "/images/carrot.png",
+    "name": "Carrot",
+    "price": 7.2
+  },
+  {
+    "id": "f82e868d-f515-4a0a-a0bf-9657ba1c277a",
+    "category": "Processed",
+    "image": "/images/butter.png",
+    "name": "Butter",
+    "price": 82
+  },
+  {
+    "id": "2405a1c1-74da-4306-836b-4e2668124399",
+    "category": "Animals",
+    "image": "/images/bacon.png",
+    "name": "Bacon",
+    "price": 50
+  },
+  {
+    "id": "1d1b6329-a73b-4829-9792-2c966fad67fc",
+    "category": "Processed",
+    "image": "/images/cookie.png",
+    "name": "Cookie",
+    "price": 104
+  },
+  {
+    "id": "7253c7ce-035a-4295-b678-83ae4c595de9",
+    "category": "Processed",
+    "image": "/images/pig_feed.png",
+    "name": "Pig Feed",
+    "price": 14
+  },
+  {
+    "id": "7590db00-1069-47ba-a2fd-1bfabb72d3f2",
+    "category": "Processed",
+    "image": "/images/bacon_and_eggs.png",
+    "name": "Bacon and Eggs",
+    "price": 201
+  },
+  {
+    "id": "1bd92ddc-c89a-4340-83b3-2869444ddd39",
+    "category": "Processed",
+    "image": "/images/cheese.png",
+    "name": "Cheese",
+    "price": 122
+  },
+  {
+    "id": "e2b96241-becd-404c-aefd-c887a4d47dc5",
+    "category": "Crops",
+    "image": "/images/indigo.png",
+    "name": "Indigo",
+    "price": 25.2
+  },
+  {
+    "id": "4275c413-03ba-4354-b056-2cccff13857d",
+    "category": "Processed",
+    "image": "/images/white_sugar.png",
+    "name": "White Sugar",
+    "price": 50
+  },
+  {
+    "id": "4d68c9b1-2655-4ba6-835c-8ed62b68ef2a",
+    "category": "Processed",
+    "image": "/images/carrot_pie.png",
+    "name": "Carrot Pie",
+    "price": 82
+  },
+  {
+    "id": "b3a198e7-2b45-499b-a455-58485e984373",
+    "category": "Crops",
+    "image": "/images/pumpkin.png",
+    "name": "Pumpkin",
+    "price": 32.4
+  },
+  {
+    "id": "279882a1-70d8-467d-81c8-c71a75d31f82",
+    "category": "Trees",
+    "image": "/images/apple.png",
+    "name": "Apple",
+    "price": 39.6
+  },
+  {
+    "id": "3579a88c-366d-4942-a465-1155d95833c3",
+    "category": "Processed",
+    "image": "/images/pumpkin_pie.png",
+    "name": "Pumpkin Pie",
+    "price": 158
+  }
+]

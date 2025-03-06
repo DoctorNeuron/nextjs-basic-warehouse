@@ -1,0 +1,8 @@
+{
+  "eslint.useFlatConfig": true,
+  "eslint.enable": true,
+  "eslint.lintTask.enable": true,
+  "eslint.options": {
+    "overrideConfigFile": "./eslint.config.mjs",
+  }
+}
